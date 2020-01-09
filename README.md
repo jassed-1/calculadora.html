@@ -1,7 +1,7 @@
 Calculadora.html
 ================
 
-Um programa que faiz calculos com todos os tipos de sinais
+            Um programa que faiz calculos com todos os tipos de sinais
 
 
 ----
@@ -20,7 +20,7 @@ Executar
 Uso 
 ---
 
-Fazer calculos com todos os sinais
+          Fazer calculos com todos os sinais
 
 ----
 
